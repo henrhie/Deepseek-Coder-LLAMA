@@ -1,5 +1,0 @@
-.venv/
-weights/
-*.ipynb
-__pycache__/
-.idea
