@@ -1,0 +1,4 @@
+.venv/
+weights/
+*.ipynb
+__pycache__/
